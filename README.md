@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- �
+ ###### 👨🏻‍💻  I'm an IT student and currently, studing Bsc.Hons Computing.
+ ###### 🙋🏻  I'm very keen to learn cross-platform programming languages.
+ ###### 🔗  I want to collaborate with IT professionals in order to learn techinques, gather experience and enhance skills.
+ 
+ ---
+ 
+ [![Sanjiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjiv576)](https://github.com/sanjiv576/github-readme-stats)
