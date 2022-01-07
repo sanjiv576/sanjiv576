@@ -19,5 +19,7 @@ Here are some ideas to get you started:
  ###### 🔗  I want to collaborate with IT professionals in order to learn techinques, gather experience and enhance skills.
  
  ---
+ <!-- GitHub stats is added   -->
+ [![Sanjiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjiv576&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/sanjiv576/github-readme-stats)
  
- [![Sanjiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjiv576)](https://github.com/sanjiv576/github-readme-stats)
+ 
