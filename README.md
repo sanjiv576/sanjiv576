@@ -1,4 +1,4 @@
-### Hi there, its me Sanjiv. 👋
+### Hi there, I am Sanjiv. 👋
 
 <!--
 **sanjiv576/sanjiv576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
