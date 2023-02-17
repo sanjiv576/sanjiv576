@@ -31,6 +31,11 @@ Here are some ideas to get you started:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiv576&langs_count=9&layout=compact)](https://github.com/sanjiv576/github-readme-stats)
  
  ---
+ # LeetCode Stats
+ [![sanjiv576's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sanjiv576&theme=dark)](https://github.com/sanjiv576/leetcode-stats)
+ ---
+ 
+ ---
  <!-- GitHub stats is added   -->
  [![Sanjiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjiv576&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/sanjiv576/github-readme-stats)
  
