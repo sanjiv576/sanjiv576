@@ -34,15 +34,18 @@ Here are some ideas to get you started:
  # LeetCode Stats
  [![sanjiv576's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sanjiv576&theme=dark)](https://github.com/sanjiv576/leetcode-stats)
  ---
- 
+
  ---
  <!-- GitHub stats is added   -->
  [![Sanjiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjiv576&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/sanjiv576/github-readme-stats)
  
  ---
- <!-- showing recent works done in this week
+  # Working Progress
+ ![Wakatime](https://wakatime.com/share/@1079a72d-bea5-4841-8497-e845e5df22a4/de274b71-ea21-4eba-a967-9af10a0a02c2.svg)
+<!-- 
+ showing recent works done in this week
 
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/sanjiv576/github-readme-stats)
--->
+
  
- 
+  -->
