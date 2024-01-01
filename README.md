@@ -2,7 +2,7 @@
  Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanjiv Shrestha
 =======================================================================================================================================
 
-## Mobile and Web Developer, Hacking enthusiastic
+## Mobile and Web Apps Developer, Hacking enthusiastic
 ----------------------------------------------
 
 I am a driven and hardworking developer specializing in creating mobile apps using Flutter and web solutions with the MERN stack. I possess a knack for solving problems effectively and have a strong desire to keep learning. My self-motivation ensures excellent self-management, and my teamwork skills bring coordination and harmony to collaborative projects.
