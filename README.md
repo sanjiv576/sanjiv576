@@ -5,11 +5,11 @@
 ## Mobile and Web Apps Developer, Hacking enthusiastic
 ----------------------------------------------
 
-I am a driven and hardworking developer specializing in creating mobile apps using Flutter and web solutions with the MERN stack. I possess a knack for solving problems effectively and have a strong desire to keep learning. My self-motivation ensures excellent self-management, and my teamwork skills bring coordination and harmony to collaborative projects.
+I am a passionate and highly skilled developer specializing in mobile application development with Flutter and creating dynamic web solutions using the MERN stack. With a talent for innovative problem-solving and a relentless drive for knowledge, I consistently strive to stay at the forefront of technology. My strong self-motivation ensures outstanding self-management, and my ability to foster collaboration and harmony within teams results in seamless and productive project execution.
 
 > 🤝  I'm open to collaborating on mobile apps, and RESTful APIs.
 
-> 🚀 I'm currently working on improving UI/UX of previous Table Reservation Mobile app, E-commerce website, and Hand Gesture Recognition using Long Short-term Memory neural network.
+> 🚀 Recently completed BSc.HONS Computing degree.
 
 > 🧠 I'm also learning and and practising secure software development and cybersecurity.
   
