@@ -21,7 +21,7 @@
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>      
 
 
-# 👋 Welcome, I'm Sanjiv Shrestha
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome, I'm Sanjiv Shrestha
 
 I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting seamless mobile and web applications. Specializing in **Flutter** and the **MERN stack**, I build responsive, user-centric solutions with a focus on performance and scalability. Currently, I'm diving into **Machine Learning**, exploring frameworks like TensorFlow and PyTorch to develop innovative AI-driven applications. I thrive in collaborative environments, tackling complex challenges with clean code and creative problem-solving.
 
@@ -38,6 +38,10 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 - Explore **AI/ML** with projects in deep learning (e.g., LSTM-based models for time-series prediction).
 - Contribute to open-source and deliver **client-focused solutions** on platforms like Upwork, meeting tight deadlines.
 
+ <!-- profile view added -->
+ ![](https://komarev.com/ghpvc/?username=sanjiv576&color=blue&label=PROFILE+VIEWS)
+
+ 
 ## 🔧 Technical Skills
 
 ####
