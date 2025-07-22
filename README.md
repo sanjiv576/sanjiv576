@@ -41,6 +41,8 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
  <!-- profile view added -->
  ![](https://komarev.com/ghpvc/?username=sanjiv576&color=blue&label=PROFILE+VIEWS)
 
+
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
  
 ## 🔧 Technical Skills
 
@@ -170,6 +172,7 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 </table>
 
 
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
 
 <b>My GitHub Stats</b>
 
@@ -179,10 +182,15 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 
 <a href="http://www.github.com/sanjiv576"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanjiv576&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+
+
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
+
+
 <a href="https://github.com/sanjiv576" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiv576&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
- --------
 
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
 
 
 <!-- activity graph heroku-app start -->
@@ -194,9 +202,7 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 <!-- activity graph heroku-app end -->
 
 
-
-
- -------------
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
  
 <b>Top Repositories</b>
 
@@ -207,7 +213,8 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 <div width="100%" align="center"><a href="https://github.com/sanjiv576/Table_Reservation_Web_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjiv576&repo=Table_Reservation_Web_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sanjiv576/Vehicle_GPS_Tracking_System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjiv576&repo=Vehicle_GPS_Tracking_System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
 
---- 
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
+
 <br/>
 
 ## 📫 Connect with Me
@@ -216,8 +223,7 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 ## 🎯 Fun Facts
 - When not coding, I’m hiking in the Himalayas or sipping coffee at local cafes.
 - Fond of PUBG
-
----
+   
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="coding animation" width="300" />
@@ -230,4 +236,16 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 <p align="center">
   <b>Let's build something amazing together! 🚀</b>
 </p>
+
+
+<p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+
+<div align="center">
+
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
+<br />
 
