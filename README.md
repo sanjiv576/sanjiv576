@@ -170,6 +170,7 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 </table>
 
 
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sanjiv576"><img src="https://github-readme-stats.vercel.app/api?username=sanjiv576&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="sanjiv576's GitHub stats" /></a>
@@ -181,6 +182,21 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 <a href="https://github.com/sanjiv576" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiv576&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
  --------
+
+
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv576&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+
+
+
+ -------------
  
 <b>Top Repositories</b>
 
@@ -198,8 +214,8 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 - **Email**: [shresthasanjiv576@gmail.com](mailto:shresthasanjiv576@gmail.com)
 
 ## 🎯 Fun Facts
-- When not coding, I’m hiking in the Himalayas or sipping coffee at local cafes in Kathmandu.
-- Fond of: PUBG
+- When not coding, I’m hiking in the Himalayas or sipping coffee at local cafes.
+- Fond of PUBG
 
 ---
 
