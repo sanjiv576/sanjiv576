@@ -202,13 +202,7 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** and a passion for crafting 
 <!-- activity graph heroku-app end -->
 
 
-<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>    
- 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/sanjiv576/Table_Reservation_Mobile_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjiv576&repo=Table_Reservation_Mobile_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sanjiv576/movie-booking-flutter-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjiv576&repo=movie-booking-flutter-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated
 
 <div width="100%" align="center"><a href="https://github.com/sanjiv576/Table_Reservation_Web_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjiv576&repo=Table_Reservation_Web_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sanjiv576/Vehicle_GPS_Tracking_System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjiv576&repo=Vehicle_GPS_Tracking_System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
